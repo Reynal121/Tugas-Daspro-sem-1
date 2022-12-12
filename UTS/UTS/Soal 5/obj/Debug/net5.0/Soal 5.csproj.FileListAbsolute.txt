@@ -1,0 +1,16 @@
+D:\UTS\Soal 5\bin\Debug\net5.0\Soal 5.exe
+D:\UTS\Soal 5\bin\Debug\net5.0\Soal 5.deps.json
+D:\UTS\Soal 5\bin\Debug\net5.0\Soal 5.runtimeconfig.json
+D:\UTS\Soal 5\bin\Debug\net5.0\Soal 5.runtimeconfig.dev.json
+D:\UTS\Soal 5\bin\Debug\net5.0\Soal 5.dll
+D:\UTS\Soal 5\bin\Debug\net5.0\ref\Soal 5.dll
+D:\UTS\Soal 5\bin\Debug\net5.0\Soal 5.pdb
+D:\UTS\Soal 5\obj\Debug\net5.0\Soal 5.csproj.AssemblyReference.cache
+D:\UTS\Soal 5\obj\Debug\net5.0\Soal 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTS\Soal 5\obj\Debug\net5.0\Soal 5.AssemblyInfoInputs.cache
+D:\UTS\Soal 5\obj\Debug\net5.0\Soal 5.AssemblyInfo.cs
+D:\UTS\Soal 5\obj\Debug\net5.0\Soal 5.csproj.CoreCompileInputs.cache
+D:\UTS\Soal 5\obj\Debug\net5.0\Soal 5.dll
+D:\UTS\Soal 5\obj\Debug\net5.0\ref\Soal 5.dll
+D:\UTS\Soal 5\obj\Debug\net5.0\Soal 5.pdb
+D:\UTS\Soal 5\obj\Debug\net5.0\Soal 5.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\tugas quis\obj\Debug\net5.0\tugas quis.csproj.AssemblyReference.cache
+D:\tugas quis\obj\Debug\net5.0\tugas quis.GeneratedMSBuildEditorConfig.editorconfig
+D:\tugas quis\obj\Debug\net5.0\tugas quis.AssemblyInfoInputs.cache
+D:\tugas quis\obj\Debug\net5.0\tugas quis.AssemblyInfo.cs
+D:\tugas quis\obj\Debug\net5.0\tugas quis.csproj.CoreCompileInputs.cache
+D:\tugas quis\bin\Debug\net5.0\tugas quis.exe
+D:\tugas quis\bin\Debug\net5.0\tugas quis.deps.json
+D:\tugas quis\bin\Debug\net5.0\tugas quis.runtimeconfig.json
+D:\tugas quis\bin\Debug\net5.0\tugas quis.runtimeconfig.dev.json
+D:\tugas quis\bin\Debug\net5.0\tugas quis.dll
+D:\tugas quis\bin\Debug\net5.0\ref\tugas quis.dll
+D:\tugas quis\bin\Debug\net5.0\tugas quis.pdb
+D:\tugas quis\obj\Debug\net5.0\tugas quis.dll
+D:\tugas quis\obj\Debug\net5.0\ref\tugas quis.dll
+D:\tugas quis\obj\Debug\net5.0\tugas quis.pdb
+D:\tugas quis\obj\Debug\net5.0\tugas quis.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Battle Tank\obj\Debug\net5.0\Battle Tank.csproj.AssemblyReference.cache
+D:\Battle Tank\obj\Debug\net5.0\Battle Tank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Battle Tank\obj\Debug\net5.0\Battle Tank.AssemblyInfoInputs.cache
+D:\Battle Tank\obj\Debug\net5.0\Battle Tank.AssemblyInfo.cs
+D:\Battle Tank\obj\Debug\net5.0\Battle Tank.csproj.CoreCompileInputs.cache
+D:\Battle Tank\bin\Debug\net5.0\Battle Tank.exe
+D:\Battle Tank\bin\Debug\net5.0\Battle Tank.deps.json
+D:\Battle Tank\bin\Debug\net5.0\Battle Tank.runtimeconfig.json
+D:\Battle Tank\bin\Debug\net5.0\Battle Tank.runtimeconfig.dev.json
+D:\Battle Tank\bin\Debug\net5.0\Battle Tank.dll
+D:\Battle Tank\bin\Debug\net5.0\ref\Battle Tank.dll
+D:\Battle Tank\bin\Debug\net5.0\Battle Tank.pdb
+D:\Battle Tank\obj\Debug\net5.0\Battle Tank.dll
+D:\Battle Tank\obj\Debug\net5.0\ref\Battle Tank.dll
+D:\Battle Tank\obj\Debug\net5.0\Battle Tank.pdb
+D:\Battle Tank\obj\Debug\net5.0\Battle Tank.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+D:\UTS\Soal 3\bin\Debug\net5.0\Soal 3.exe
+D:\UTS\Soal 3\bin\Debug\net5.0\Soal 3.deps.json
+D:\UTS\Soal 3\bin\Debug\net5.0\Soal 3.runtimeconfig.json
+D:\UTS\Soal 3\bin\Debug\net5.0\Soal 3.runtimeconfig.dev.json
+D:\UTS\Soal 3\bin\Debug\net5.0\Soal 3.dll
+D:\UTS\Soal 3\bin\Debug\net5.0\ref\Soal 3.dll
+D:\UTS\Soal 3\bin\Debug\net5.0\Soal 3.pdb
+D:\UTS\Soal 3\obj\Debug\net5.0\Soal 3.csproj.AssemblyReference.cache
+D:\UTS\Soal 3\obj\Debug\net5.0\Soal 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTS\Soal 3\obj\Debug\net5.0\Soal 3.AssemblyInfoInputs.cache
+D:\UTS\Soal 3\obj\Debug\net5.0\Soal 3.AssemblyInfo.cs
+D:\UTS\Soal 3\obj\Debug\net5.0\Soal 3.csproj.CoreCompileInputs.cache
+D:\UTS\Soal 3\obj\Debug\net5.0\Soal 3.dll
+D:\UTS\Soal 3\obj\Debug\net5.0\ref\Soal 3.dll
+D:\UTS\Soal 3\obj\Debug\net5.0\Soal 3.pdb
+D:\UTS\Soal 3\obj\Debug\net5.0\Soal 3.genruntimeconfig.cache
+D:\daspro sem 1\UTS\UTS\Soal 3\bin\Debug\net5.0\Soal 3.exe
+D:\daspro sem 1\UTS\UTS\Soal 3\bin\Debug\net5.0\Soal 3.deps.json
+D:\daspro sem 1\UTS\UTS\Soal 3\bin\Debug\net5.0\Soal 3.runtimeconfig.json
+D:\daspro sem 1\UTS\UTS\Soal 3\bin\Debug\net5.0\Soal 3.runtimeconfig.dev.json
+D:\daspro sem 1\UTS\UTS\Soal 3\bin\Debug\net5.0\Soal 3.dll
+D:\daspro sem 1\UTS\UTS\Soal 3\bin\Debug\net5.0\ref\Soal 3.dll
+D:\daspro sem 1\UTS\UTS\Soal 3\bin\Debug\net5.0\Soal 3.pdb
+D:\daspro sem 1\UTS\UTS\Soal 3\obj\Debug\net5.0\Soal 3.csproj.AssemblyReference.cache
+D:\daspro sem 1\UTS\UTS\Soal 3\obj\Debug\net5.0\Soal 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\daspro sem 1\UTS\UTS\Soal 3\obj\Debug\net5.0\Soal 3.AssemblyInfoInputs.cache
+D:\daspro sem 1\UTS\UTS\Soal 3\obj\Debug\net5.0\Soal 3.AssemblyInfo.cs
+D:\daspro sem 1\UTS\UTS\Soal 3\obj\Debug\net5.0\Soal 3.csproj.CoreCompileInputs.cache
+D:\daspro sem 1\UTS\UTS\Soal 3\obj\Debug\net5.0\Soal 3.dll
+D:\daspro sem 1\UTS\UTS\Soal 3\obj\Debug\net5.0\ref\Soal 3.dll
+D:\daspro sem 1\UTS\UTS\Soal 3\obj\Debug\net5.0\Soal 3.pdb
+D:\daspro sem 1\UTS\UTS\Soal 3\obj\Debug\net5.0\Soal 3.genruntimeconfig.cache

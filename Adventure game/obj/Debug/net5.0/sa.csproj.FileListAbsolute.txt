@@ -1,0 +1,32 @@
+D:\sa\bin\Debug\net5.0\sa.exe
+D:\sa\bin\Debug\net5.0\sa.deps.json
+D:\sa\bin\Debug\net5.0\sa.runtimeconfig.json
+D:\sa\bin\Debug\net5.0\sa.runtimeconfig.dev.json
+D:\sa\bin\Debug\net5.0\sa.dll
+D:\sa\bin\Debug\net5.0\ref\sa.dll
+D:\sa\bin\Debug\net5.0\sa.pdb
+D:\sa\obj\Debug\net5.0\sa.csproj.AssemblyReference.cache
+D:\sa\obj\Debug\net5.0\sa.GeneratedMSBuildEditorConfig.editorconfig
+D:\sa\obj\Debug\net5.0\sa.AssemblyInfoInputs.cache
+D:\sa\obj\Debug\net5.0\sa.AssemblyInfo.cs
+D:\sa\obj\Debug\net5.0\sa.csproj.CoreCompileInputs.cache
+D:\sa\obj\Debug\net5.0\sa.dll
+D:\sa\obj\Debug\net5.0\ref\sa.dll
+D:\sa\obj\Debug\net5.0\sa.pdb
+D:\sa\obj\Debug\net5.0\sa.genruntimeconfig.cache
+D:\Adventure game\bin\Debug\net5.0\sa.exe
+D:\Adventure game\bin\Debug\net5.0\sa.deps.json
+D:\Adventure game\bin\Debug\net5.0\sa.runtimeconfig.json
+D:\Adventure game\bin\Debug\net5.0\sa.runtimeconfig.dev.json
+D:\Adventure game\bin\Debug\net5.0\sa.dll
+D:\Adventure game\bin\Debug\net5.0\ref\sa.dll
+D:\Adventure game\bin\Debug\net5.0\sa.pdb
+D:\Adventure game\obj\Debug\net5.0\sa.csproj.AssemblyReference.cache
+D:\Adventure game\obj\Debug\net5.0\sa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Adventure game\obj\Debug\net5.0\sa.AssemblyInfoInputs.cache
+D:\Adventure game\obj\Debug\net5.0\sa.AssemblyInfo.cs
+D:\Adventure game\obj\Debug\net5.0\sa.csproj.CoreCompileInputs.cache
+D:\Adventure game\obj\Debug\net5.0\sa.dll
+D:\Adventure game\obj\Debug\net5.0\ref\sa.dll
+D:\Adventure game\obj\Debug\net5.0\sa.pdb
+D:\Adventure game\obj\Debug\net5.0\sa.genruntimeconfig.cache

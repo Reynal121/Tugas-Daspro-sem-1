@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>vanila js</title>
+</head>
+<body>
+    <h1>To Do Apps (Vanilla js)</h1>
+    <input type="text">
+    <button>Tambah List</button>
+
+    <ul></ul>
+    <script>
+        var inputEl = document.querySelector('input');
+        var buttonEl=document.querySelector('input');
+        var ulEl = document.querySelector('ui');
+
+        var todos = [];
+
+        buttonE1.addventListener('click', addTodo);
+
+        function addTodo() {
+            var userInput = inputEl.value;
+            if (userInput.trim() == '') {
+                return;
+            }
+            var newTodo = { id: Math.random(), value : userInput };
+            todos.push(newTodo);
+            var todoLi = document.createElement('LI');
+            todoLi.textContent = userInput;
+            todoLi.addEventListener('click', removeTodo);
+            todoLi.dataset.id = newTodo.id;
+            ulEl.appendChild(todoLi);
+        }
+    </script>
+</body>
+</html>

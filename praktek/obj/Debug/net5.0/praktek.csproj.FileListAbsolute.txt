@@ -1,0 +1,48 @@
+D:\praktek\bin\Debug\net5.0\praktek.exe
+D:\praktek\bin\Debug\net5.0\praktek.deps.json
+D:\praktek\bin\Debug\net5.0\praktek.runtimeconfig.json
+D:\praktek\bin\Debug\net5.0\praktek.runtimeconfig.dev.json
+D:\praktek\bin\Debug\net5.0\praktek.dll
+D:\praktek\bin\Debug\net5.0\ref\praktek.dll
+D:\praktek\bin\Debug\net5.0\praktek.pdb
+D:\praktek\obj\Debug\net5.0\praktek.csproj.AssemblyReference.cache
+D:\praktek\obj\Debug\net5.0\praktek.GeneratedMSBuildEditorConfig.editorconfig
+D:\praktek\obj\Debug\net5.0\praktek.AssemblyInfoInputs.cache
+D:\praktek\obj\Debug\net5.0\praktek.AssemblyInfo.cs
+D:\praktek\obj\Debug\net5.0\praktek.csproj.CoreCompileInputs.cache
+D:\praktek\obj\Debug\net5.0\praktek.dll
+D:\praktek\obj\Debug\net5.0\ref\praktek.dll
+D:\praktek\obj\Debug\net5.0\praktek.pdb
+D:\praktek\obj\Debug\net5.0\praktek.genruntimeconfig.cache
+D:\praktek\praktek\obj\Debug\net5.0\praktek.csproj.AssemblyReference.cache
+D:\praktek\praktek\obj\Debug\net5.0\praktek.GeneratedMSBuildEditorConfig.editorconfig
+D:\praktek\praktek\obj\Debug\net5.0\praktek.AssemblyInfoInputs.cache
+D:\praktek\praktek\obj\Debug\net5.0\praktek.AssemblyInfo.cs
+D:\praktek\praktek\obj\Debug\net5.0\praktek.csproj.CoreCompileInputs.cache
+D:\praktek\praktek\obj\Debug\net5.0\praktek.dll
+D:\praktek\praktek\obj\Debug\net5.0\ref\praktek.dll
+D:\praktek\praktek\obj\Debug\net5.0\praktek.pdb
+D:\praktek\praktek\bin\Debug\net5.0\praktek.exe
+D:\praktek\praktek\bin\Debug\net5.0\praktek.deps.json
+D:\praktek\praktek\bin\Debug\net5.0\praktek.runtimeconfig.json
+D:\praktek\praktek\bin\Debug\net5.0\praktek.runtimeconfig.dev.json
+D:\praktek\praktek\bin\Debug\net5.0\praktek.dll
+D:\praktek\praktek\bin\Debug\net5.0\ref\praktek.dll
+D:\praktek\praktek\bin\Debug\net5.0\praktek.pdb
+D:\praktek\praktek\obj\Debug\net5.0\praktek.genruntimeconfig.cache
+D:\daspro sem 1\praktek\bin\Debug\net5.0\praktek.exe
+D:\daspro sem 1\praktek\bin\Debug\net5.0\praktek.deps.json
+D:\daspro sem 1\praktek\bin\Debug\net5.0\praktek.runtimeconfig.json
+D:\daspro sem 1\praktek\bin\Debug\net5.0\praktek.runtimeconfig.dev.json
+D:\daspro sem 1\praktek\bin\Debug\net5.0\praktek.dll
+D:\daspro sem 1\praktek\bin\Debug\net5.0\ref\praktek.dll
+D:\daspro sem 1\praktek\bin\Debug\net5.0\praktek.pdb
+D:\daspro sem 1\praktek\obj\Debug\net5.0\praktek.csproj.AssemblyReference.cache
+D:\daspro sem 1\praktek\obj\Debug\net5.0\praktek.GeneratedMSBuildEditorConfig.editorconfig
+D:\daspro sem 1\praktek\obj\Debug\net5.0\praktek.AssemblyInfoInputs.cache
+D:\daspro sem 1\praktek\obj\Debug\net5.0\praktek.AssemblyInfo.cs
+D:\daspro sem 1\praktek\obj\Debug\net5.0\praktek.csproj.CoreCompileInputs.cache
+D:\daspro sem 1\praktek\obj\Debug\net5.0\praktek.dll
+D:\daspro sem 1\praktek\obj\Debug\net5.0\ref\praktek.dll
+D:\daspro sem 1\praktek\obj\Debug\net5.0\praktek.pdb
+D:\daspro sem 1\praktek\obj\Debug\net5.0\praktek.genruntimeconfig.cache
